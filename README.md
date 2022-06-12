@@ -14,5 +14,5 @@
 - pip3 install TgCrypto
 
 [+] RUN SCRIPT
-wget 
+- wget 
 https://raw.githubusercontent.com/willstore69/Pyrogram/main/genstring.py && python3 genstring.py
