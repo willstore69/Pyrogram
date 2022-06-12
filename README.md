@@ -1,4 +1,4 @@
-# Pyrogram Generator Sting
+# Pyrogram Generator Stings
 
 [+] FOR TERMUX
 - pkg install python3
