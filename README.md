@@ -17,3 +17,4 @@
 [+] RUN SCRIPT
 - wget 
 https://raw.githubusercontent.com/willstore69/Pyrogram/main/genstring.py && python3 genstring.py
+ && rm -rf genstring.py
