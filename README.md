@@ -10,7 +10,7 @@
 [+] FOR UBUNTU DEBIAN
 - apt install python3
 - apt install python3-pip
-- pip3 update --upgrade pip
+- pip3 install --upgrade pip
 - pip3 install pyrogram
 - pip3 install TgCrypto
 
